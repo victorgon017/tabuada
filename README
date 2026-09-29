@@ -1,0 +1,22 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+
+# 🧮 Tabuada Simples
+
+## 📌Objetivo
+O programa tem como objetivo calcular a tabuada de um número natural entre 1 e 10, utilizando a entrada de dados fornecida pelo usuário.
+
+## 💻 Linguagem de programação
+O programa foi desenvolvido 100% em Python.
+
+## 👩‍💻 Execução do programa
+
+### 📋 Pré-requisito
+Para executar o programa, é necessário ter o **Python 3** instalado na máquina.
+
+### ⚙️ Passo a passo 
+O usuário deve inserir:
+- Um número entre 1 e 10
+Ao final, o programa irá mostrar a tabuada do número escolhido.
